@@ -1,0 +1,3 @@
+Name of Code: SRFischerplot-1; SRFischerplot-2
+Purpose of Codes: constructing SR-Fischer plots using sedimentary-cycle data and tuned proxy data respectively.
+Manuscript Authors: YANG Daming, HUANG Yongjian, WANG Chengshan.
