@@ -5,3 +5,4 @@ Purpose of Codes: constructing SR-Fischer plots using sedimentary-cycle data and
 Manuscript Authors: YANG Daming, HUANG Yongjian, WANG Chengshan.
 Manuacript：SediRate-Fischer plots as a tool to illustrate relative sea-level and lake-level changes in subaqueous terrigenous deposits
 https://doi.org/10.1111/sed.12983
+doi:10.1111/sed.12983
